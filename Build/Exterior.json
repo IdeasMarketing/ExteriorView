@@ -1,0 +1,13 @@
+{
+"companyName": "CrisSilvaf",
+"productName": "Home VR",
+"dataUrl": "Exterior.data.unityweb",
+"asmCodeUrl": "Exterior.asm.code.unityweb",
+"asmMemoryUrl": "Exterior.asm.memory.unityweb",
+"asmFrameworkUrl": "Exterior.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
